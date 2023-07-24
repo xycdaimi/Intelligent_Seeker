@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/xyc/Desktop/Intelligent_Seeker/build",
+  "command": "/usr/bin/g++ -I/home/xyc/Desktop/Intelligent_Seeker/./include -isystem /usr/local/opencv4.7.0/include/opencv4  -Wl,-rpath=./lib/ -std=c++17 -g -std=gnu++17 -o CMakeFiles/Seeker.dir/src/log_system/LoggingSystem.cpp.o -c /home/xyc/Desktop/Intelligent_Seeker/src/log_system/LoggingSystem.cpp",
+  "file": "/home/xyc/Desktop/Intelligent_Seeker/src/log_system/LoggingSystem.cpp",
+  "output": "CMakeFiles/Seeker.dir/src/log_system/LoggingSystem.cpp.o"
+},
+{
+  "directory": "/home/xyc/Desktop/Intelligent_Seeker/build",
+  "command": "/usr/bin/g++ -I/home/xyc/Desktop/Intelligent_Seeker/./include -isystem /usr/local/opencv4.7.0/include/opencv4  -Wl,-rpath=./lib/ -std=c++17 -g -std=gnu++17 -o CMakeFiles/Seeker.dir/src/main.cpp.o -c /home/xyc/Desktop/Intelligent_Seeker/src/main.cpp",
+  "file": "/home/xyc/Desktop/Intelligent_Seeker/src/main.cpp",
+  "output": "CMakeFiles/Seeker.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/xyc/Desktop/Intelligent_Seeker/build",
+  "command": "/usr/bin/g++ -I/home/xyc/Desktop/Intelligent_Seeker/./include -isystem /usr/local/opencv4.7.0/include/opencv4  -Wl,-rpath=./lib/ -std=c++17 -g -std=gnu++17 -o CMakeFiles/Seeker.dir/src/yolo/yolo.cpp.o -c /home/xyc/Desktop/Intelligent_Seeker/src/yolo/yolo.cpp",
+  "file": "/home/xyc/Desktop/Intelligent_Seeker/src/yolo/yolo.cpp",
+  "output": "CMakeFiles/Seeker.dir/src/yolo/yolo.cpp.o"
+}
+]
